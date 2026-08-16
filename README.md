@@ -38,6 +38,8 @@
 <img width="1440" height="715" alt="Screenshot 2026-08-15 at 9 29 09 PM" src="https://github.com/user-attachments/assets/8b1f1d1f-ceba-4d81-b154-4ac4b782256b" />
 
 <img width="1440" height="713" alt="Screenshot 2026-08-15 at 9 29 28 PM" src="https://github.com/user-attachments/assets/f799300f-b5b3-4ff5-95b9-51e39b702129" />
+
+
 ### Installation
 
 ```bash
